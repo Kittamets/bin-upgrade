@@ -1,15 +1,10 @@
 # bin-upgrade
-an arduino project
+an automation bin [open automatically when stand nearby]
 
-MATERIAL ;
+Physical Materials ;
   - Arduino Uno R3
   - Ultrasonic sensor HC-SR04
   - Servo motor MG-996R
 
-LANG ;
-  - C++
-
-TOOLS ;
-  - Arudiono IDE
   
   
